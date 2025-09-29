@@ -33,7 +33,7 @@ function rot13(message){
 }
 ```
 
-### 🌟 Solución mejor calificada (+48 votos)
+### 🌟 Solución mejor calificada (+48 iguales)
 
 ```js
 function rot13(message) {

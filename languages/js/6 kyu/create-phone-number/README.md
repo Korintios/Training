@@ -31,7 +31,7 @@ function createPhoneNumber(numbers){
 }
 ```
 
-### 🌟 Solución mejor calificada (+1400 votos)
+### 🌟 Solución mejor calificada (+1400 iguales)
 
 ```js
 function createPhoneNumber(numbers){
