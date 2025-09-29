@@ -1,4 +1,4 @@
-# 📄 Titulo de Ejercicio
+# 🧭 Directions Reduction
 
 Nivel de dificultad: 5kyu <br>
 Creado por: [g964](https://www.codewars.com/users/g964) 🚀
