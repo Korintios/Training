@@ -15,7 +15,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat modi repudiand
 console.log("Esta es mi solucion jeje")
 ```
 
-### 🌟 Solución mejor calificada (+48 votos)
+### 🌟 Solución mejor calificada (+48 iguales)
 
 ```js
 console.log("Esta es la solucion mejor calificada")
